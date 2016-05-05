@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicTree</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">单曲循环</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="music_name">music_name</string>
+    
+    <!-- unpress_color改来改去好像都没影响 -->
+    <drawable name="my_music_press_color">#e1FF9E80</drawable>
+    <drawable name="unpress_color">#e1FFFFFF</drawable>
+    <drawable name="music_home_press_color">#e1EF9A9A</drawable>
+    <drawable name="specific_function_press_color">#e181C784</drawable>
+    <drawable name="wait_develop_press_color">#e190A4AE</drawable>
+    
+    <drawable name="music_download_progressbar_color">#FFFFFF</drawable>
+    <drawable name="actionbat_background_color">#000000</drawable>
+    <string name="share">share</string>
+</resources>
